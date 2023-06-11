@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 </a>
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirstCinnamon&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="45%" style="height:180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirstCinnamon&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="42%" style="height:180px"/>
 </a>
