@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome!&desc=There%20is%20no%20squirrel%20like%20mine🐿&descAlign=50&descAlignY=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome!&desc=There%20is%20no%20squirrel%20better%20than%20mine🐿&descAlign=50&descAlignY=80)
 
 
 #### 🎖️ Ranking
